@@ -42,4 +42,4 @@ Default settings for the project are INFO level in console output, and DEBUG lev
 The default Database will be be created as stated in the class Database for variable **DB_URL**.
 If you want to store the database file in your project path, please adapt the variable.
 
-[![Build Status](https://travisci.com/erdoganeren/ASD-Battleship.svg)](https://travis-ci.com/ USERNAME/PROJECTNAME)
+[![Build Status](https://travisci.com/erdoganeren/ASD-Battleship.svg)](https://travis-ci.com/erdoganeren/ASD-Battleship)
